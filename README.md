@@ -1,0 +1,1 @@
+This repository contains testing files for the AnonyMeter framework, which I applied to three different datasets. Among these, only one dataset includes real synthetic data (project_test.py). Both iris_test.py and project.py seem to return the following error: “Error: Found 100 failed queries out of 100. Check DEBUG messages for more details.”
